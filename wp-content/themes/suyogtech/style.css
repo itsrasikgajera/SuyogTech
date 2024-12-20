@@ -1,0 +1,33 @@
+/*
+Theme Name: suyogtech
+Description: This is a child theme for Flatsome Theme
+Author: UX Themes
+Template: flatsome
+Version: 3.0
+*/
+
+/*************** ADD CUSTOM CSS HERE.   ***************/
+
+@media only screen and (max-width: 321em) {
+/*************** ADD MOBILE ONLY CSS HERE  ***************/
+
+
+.row.row-small.align-equal.align-center.it_service_more .col.medium-2.small-12.large-2 {
+    width:100% !important;
+    max-width: 100% !important;
+    flex-basis: 100%;
+}
+
+}
+
+@media only screen and (max-width: 48em) {
+/*************** ADD MOBILE ONLY CSS HERE  ***************/
+
+
+.row.row-small.align-equal.align-center.it_service_more .col.medium-2.small-12.large-2 {
+    width:100% !important;
+    max-width: 100% !important;
+    flex-basis: 100%;
+}
+
+}

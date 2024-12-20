@@ -1,0 +1,31 @@
+				@font-face {
+					font-family: 'generalsans-regular';
+					src: url('/suyogtech/wp-content/uploads/useanyfont/2546GeneralSans-Regular.woff2') format('woff2'),
+						url('/suyogtech/wp-content/uploads/useanyfont/2546GeneralSans-Regular.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.generalsans-regular{font-family: 'generalsans-regular' !important;}
+
+						@font-face {
+					font-family: 'generalsans-semibold';
+					src: url('/suyogtech/wp-content/uploads/useanyfont/1363GeneralSans-Semibold.woff2') format('woff2'),
+						url('/suyogtech/wp-content/uploads/useanyfont/1363GeneralSans-Semibold.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.generalsans-semibold{font-family: 'generalsans-semibold' !important;}
+
+						@font-face {
+					font-family: 'generalsans-bold';
+					src: url('/suyogtech/wp-content/uploads/useanyfont/3531GeneralSans-Bold.woff2') format('woff2'),
+						url('/suyogtech/wp-content/uploads/useanyfont/3531GeneralSans-Bold.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.generalsans-bold{font-family: 'generalsans-bold' !important;}
+
+						h1, h2, h3, h4, h5, h6{
+					font-family: 'generalsans-bold' !important;
+				}
+		
